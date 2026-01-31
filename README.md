@@ -12,9 +12,9 @@ Features a <ins>**Preset Manager**</ins> that enables saving and loading up to 9
 ---
 
 ### 🪧 DEMO
-* [Latest Version](https://adelando.net/projects/visualiser.html) *Stable-Latest version on Github*
+* [Latest Version](https://adelando.net/projects/visualizer.html) *Stable-Latest version on Github*
 
-* [WIP Version](https://adelando.net/projects/beta_visualiser.html). *Potentially Buggy - Potentially Messy*
+* [WIP Version](https://adelando.net/projects/beta_visualizer.html). *Potentially Buggy - Potentially Messy*
 
 ---
 ## 🚀 Quick Start
