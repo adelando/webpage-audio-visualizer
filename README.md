@@ -95,7 +95,7 @@ Created by **Adelando**, this project aims to provide a zero-latency visual solu
 *Description: Colour Speed=0, Custom colour (1st=Cyan #06fafe / 2nd=Black #000000), Spacing=1, Complexity=4*
 
 ### 🌌 Neon Neural Web
-![Example](https://i.imgur.com/Z13zl8i.png)  
+![Example](https://i.imgur.com/3MrLxUN.png) 
 
 <details>  
 <summary>View example code: </summary>
@@ -107,8 +107,8 @@ Created by **Adelando**, this project aims to provide a zero-latency visual solu
 *Description: High decay 0.09, Cyberpunk Colour palette.*
 
 ### 🚀 Firey Orbit
+![Example](https://i.imgur.com/Z13zl8i.png)  
 
-![Example](https://i.imgur.com/3MrLxUN.png) 
 <details>  
 <summary>View example code: </summary>
   
