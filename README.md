@@ -80,22 +80,46 @@ Created by **Adelando**, this project aims to provide a zero-latency visual solu
 ---
 
 <details>
-<summary>📂 <b>MY FAVOURITE COMBINATIONS (Paste Examples Here)</b></summary>
+<summary>📂 <b>MY FAVOURITE COMBINATIONS SO FAR</b></summary>
+
+
+### 🔠 Name Shadow Drop
+![Example](https://i.imgur.com/QFekUht.png) 
+<details>  
+<summary>View example code: </summary>
+  
+`eyJzZW5zaXRpdml0eSI6IjEuNiIsImJhclNwYWNpbmciOiIxIiwidGhpY2tuZXNzIjoiMi41Iiwic2xpY2VzIjoiNCIsInJvdGF0aW9uIjowLjAwNCwiem9vbSI6IjEuOCIsImRlY2F5IjoiMSIsIm1pcnJvckZsaXAiOnRydWUsInJhaW5ib3dTcGVlZCI6IjAiLCJiZ0NvbG9yIjoiIzAwODFmYSIsInJlYWN0aXZlQkciOnRydWUsImJhc2VTaGFwZSI6InRleHQiLCJjb2xvck1vZGUiOiJjdXN0b20iLCJjb2xvcjEiOiIjMDZmYWZlIiwiY29sb3IyIjoiIzAwMDAwMCIsImN1c3RvbVRleHQiOiJBREVMQU5ETyJ9`
+
+</details>
+
+*Description: Colour Speed=0, Custom colour (1st=Cyan #06fafe / 2nd=Black #000000), Spacing=1, Complexity=4*
 
 ### 🌌 Neon Neural Web
 ![Example](https://i.imgur.com/Z13zl8i.png)  
 
-`eyJzZW5zaXRpdml0eSI6IjIuMSIsImJhclNwYWNpbmciOiIxNSIsInRoaWNrbmVzcyI6IjEiLCJzbGljZXMiOiI2OSIsInJvdGF0aW9uIjoiLTAuMDA2Iiwiem9vbSI6IjEuNyIsImRlY2F5IjoiMC4wOSIsIm1pcnJvckZsaXAiOmZhbHNlLCJyYWluYm93U3BlZWQiOiIwLjIiLCJiZ0NvbG9yIjoiIzAwMDAwMCIsInJlYWN0aXZlQkciOmZhbHNlLCJiYXNlU2hhcGUiOiJuZXVyYWwiLCJjb2xvck1vZGUiOiJjeWJlciIsImNvbG9yMSI6IiMwNmZhZmUiLCJjb2xvcjIiOiIjZjQwMWViIiwiY3VzdG9tVGV4dCI6IuKKgijil4nigL/il4kp44GkIn0=`
+<details>  
+<summary>View example code: </summary>
+  
+`eyJzZW5zaXRpdml0eSI6IjIuMSIsImJhclNwYWNpbmciOiIxNSIsInRoaWNrbmVzcyI6IjEiLCJzbGljZXMiOiI2OSIsInJvdGF0aW9uIjoiLTAuMDA2Iiwiem9vbSI6IjEuNyIsImRlY2F5IjoiMC4wOSIsIm1pcnJvckZsaXAiOmZhbHNlLCJyYWluYm93U3BlZWQiOiIwLjIiLCJiZ0NvbG9yIjoiIzAwMDAwMCIsInJlYWN0aXZlQkciOmZhbHNlLCJiYXNlU2hhcGUiOiJuZXVyYWwiLCJjb2xvck1vZGUiOiJjeWJlciIsImNvbG9yMSI6IiMwNmZhZmUiLCJjb2xvcjIiOiIjZjQwMWViIiwiY3VzdG9tVGV4dCI6IuKKgijil4nigL/il4kp44GkIn0=`  
+
+</details>
+
 *Description: High decay 0.09, Cyberpunk Colour palette.*
 
 ### 🚀 Firey Orbit
 
 ![Example]([https://i.imgur.com/Z13zl8i.png](https://i.imgur.com/3MrLxUN.png))  
-`eyJzZW5zaXRpdml0eSI6IjAuNCIsImJhclNwYWNpbmciOiIzIiwidGhpY2tuZXNzIjoiMC41Iiwic2xpY2VzIjoiMiIsInJvdGF0aW9uIjoiMC4wMTEiLCJ6b29tIjoiMS41IiwiZGVjYXkiOiIwLjI0IiwibWlycm9yRmxpcCI6ZmFsc2UsInJhaW5ib3dTcGVlZCI6MSwiYmdDb2xvciI6IiMwMDAwMDAiLCJyZWFjdGl2ZUJHIjpmYWxzZSwiYmFzZVNoYXBlIjoibW9vbnMiLCJjb2xvck1vZGUiOiJsYXZhIiwiY29sb3IxIjoiI2ZmZmZmZiIsImNvbG9yMiI6IiNmZmZmZmYiLCJjdXN0b21UZXh0Ijoi4oqCKOKXieKAv+KXiSnjgaQifQ==`
+<details>  
+<summary>View example code: </summary>
+  
+`eyJzZW5zaXRpdml0eSI6IjAuNCIsImJhclNwYWNpbmciOiIzIiwidGhpY2tuZXNzIjoiMC41Iiwic2xpY2VzIjoiMiIsInJvdGF0aW9uIjoiMC4wMTEiLCJ6b29tIjoiMS41IiwiZGVjYXkiOiIwLjI0IiwibWlycm9yRmxpcCI6ZmFsc2UsInJhaW5ib3dTcGVlZCI6MSwiYmdDb2xvciI6IiMwMDAwMDAiLCJyZWFjdGl2ZUJHIjpmYWxzZSwiYmFzZVNoYXBlIjoibW9vbnMiLCJjb2xvck1vZGUiOiJsYXZhIiwiY29sb3IxIjoiI2ZmZmZmZiIsImNvbG9yMiI6IiNmZmZmZmYiLCJjdXN0b21UZXh0Ijoi4oqCKOKXieKAv+KXiSnjgaQifQ==`  
+
+</details>
+
 *Description: Zoomed out, dense spacing, Lava Flow Colour palette*
 
 </details>
 
 ---
 
-**Found a bug?** Open an issue on the [GitHub Repository](https://github.com/adelando/webpage-audio-visualizer).
+**Found a bug?** [Open an issue here](https://github.com/adelando/webpage-audio-visualizer/issues).
