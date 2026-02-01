@@ -1,8 +1,7 @@
 # 🌈 CHROMIUM WEB AUDIO VISUALIZER
 
 ![Visualizer Header](https://img.shields.io/badge/Status-Stable-brightgreen)
-![Visualizer Vers](https://img.shields.io/badge/Version-17.6.1-blue)
-![VJ Ready](https://img.shields.io/badge/VJ-Ready-ff00ff)
+![VJ Ready](https://img.shields.io/badge/VJ-Ready-ff00ff)  
 
 *Wish Spotify, Apple Music, or Youtube Music had a fullscreen visualizer for your party or event?*
 
@@ -75,8 +74,8 @@ Hold the letter key and press **Arrow Up/Down** or **Left/Right** to adjust:
 Created by **Adelando**, this project aims to provide a zero-latency visual solution that requires no software installation. 
 
 **Future Roadmap:**
-* [ ] Multi-layering effects
-* [ ] Custom image texture overlays
+* [ ] ??
+* [ ] ??
 
 ---
 
@@ -84,12 +83,16 @@ Created by **Adelando**, this project aims to provide a zero-latency visual solu
 <summary>📂 <b>MY FAVOURITE COMBINATIONS (Paste Examples Here)</b></summary>
 
 ### 🌌 Neon Neural Web
-`INSERT_BASE64_CODE_HERE`
-*Description: High decay, cyan/magenta custom palette.*
+![Example](https://i.imgur.com/Z13zl8i.png)  
 
-### 🚀 Warp Speed Moons
-`INSERT_BASE64_CODE_HERE`
-*Description: High rotation, low spacing, rainbow mode.*
+`eyJzZW5zaXRpdml0eSI6IjIuMSIsImJhclNwYWNpbmciOiIxNSIsInRoaWNrbmVzcyI6IjEiLCJzbGljZXMiOiI2OSIsInJvdGF0aW9uIjoiLTAuMDA2Iiwiem9vbSI6IjEuNyIsImRlY2F5IjoiMC4wOSIsIm1pcnJvckZsaXAiOmZhbHNlLCJyYWluYm93U3BlZWQiOiIwLjIiLCJiZ0NvbG9yIjoiIzAwMDAwMCIsInJlYWN0aXZlQkciOmZhbHNlLCJiYXNlU2hhcGUiOiJuZXVyYWwiLCJjb2xvck1vZGUiOiJjeWJlciIsImNvbG9yMSI6IiMwNmZhZmUiLCJjb2xvcjIiOiIjZjQwMWViIiwiY3VzdG9tVGV4dCI6IuKKgijil4nigL/il4kp44GkIn0=`
+*Description: High decay 0.09, Cyberpunk Colour palette.*
+
+### 🚀 Firey Orbit
+
+![Example]([https://i.imgur.com/Z13zl8i.png](https://i.imgur.com/3MrLxUN.png))  
+`eyJzZW5zaXRpdml0eSI6IjAuNCIsImJhclNwYWNpbmciOiIzIiwidGhpY2tuZXNzIjoiMC41Iiwic2xpY2VzIjoiMiIsInJvdGF0aW9uIjoiMC4wMTEiLCJ6b29tIjoiMS41IiwiZGVjYXkiOiIwLjI0IiwibWlycm9yRmxpcCI6ZmFsc2UsInJhaW5ib3dTcGVlZCI6MSwiYmdDb2xvciI6IiMwMDAwMDAiLCJyZWFjdGl2ZUJHIjpmYWxzZSwiYmFzZVNoYXBlIjoibW9vbnMiLCJjb2xvck1vZGUiOiJsYXZhIiwiY29sb3IxIjoiI2ZmZmZmZiIsImNvbG9yMiI6IiNmZmZmZmYiLCJjdXN0b21UZXh0Ijoi4oqCKOKXieKAv+KXiSnjgaQifQ==`
+*Description: Zoomed out, dense spacing, Lava Flow Colour palette*
 
 </details>
 
