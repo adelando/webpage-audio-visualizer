@@ -73,6 +73,16 @@ Not every setting affects every shape. Use the table below to understand the uni
 * **Export:** Converts your current masterpiece into a Base64 string. Share this code with others!
 * **Import:** Paste a code into the box to instantly replicate someone else's settings.
 
+Exporting your settings will provide a Base64 string like the below example.
+```yaml
+eyJzZW5zaXRpdml0eSI6IjEuMyIsImJhclNwYWNpbmciOjEsInRoaWNrbmVzcyI6IjQiLCJzbGljZXMiOiIzIiwicm90YXRpb24iOiIwIiwiem9vbSI6IjEuMyIsImRlY2F5IjoiMSIsIm1pcnJvckZsaXAiOnRydWUsInJhaW5ib3dTcGVlZCI6MSwiYmdDb2xvciI6IiMzODAwZDEiLCJyZWFjdGl2ZUJHIjp0cnVlLCJiYXNlU2hhcGUiOiJ0ZXh0IiwiY29sb3JNb2RlIjoiY3VzdG9tIiwiY29sb3IxIjoiIzAwZmJmZiIsImNvbG9yMiI6IiNmZjAwZmYiLCJjdXN0b21UZXh0IjoiQURFTEFORE8ifQ==
+```
+Which when [decoded](https://www.base64decode.org/) will result in a string.
+```yaml
+{"sensitivity":"1.3","barSpacing":1,"thickness":"4","slices":"3","rotation":"0","zoom":"1.3","decay":"1","mirrorFlip":true,"rainbowSpeed":1,"bgColor":"#3800d1","reactiveBG":true,"baseShape":"text","colorMode":"custom","color1":"#00fbff","color2":"#ff00ff","customText":"ADELANDO"}
+```
+Allowing you to edit or save in a text document outside the visualiser for later.
+
 ---
 
 ## 🛠️ Project Goals
