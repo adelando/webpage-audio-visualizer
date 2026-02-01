@@ -108,7 +108,7 @@ Created by **Adelando**, this project aims to provide a zero-latency visual solu
 
 ### 🚀 Firey Orbit
 
-![Example]([https://i.imgur.com/Z13zl8i.png](https://i.imgur.com/3MrLxUN.png))  
+![Example](https://i.imgur.com/3MrLxUN.png) 
 <details>  
 <summary>View example code: </summary>
   
