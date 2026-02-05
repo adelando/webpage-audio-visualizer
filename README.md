@@ -2,6 +2,7 @@
 
 ![Visualizer Header](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![VJ Ready](https://img.shields.io/badge/VJ-Ready-ff00ff)  
+![AI-Powered](https://img.shields.io/badge/Developed%20with-AI-blue?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 *Wish Spotify, Apple Music, or Youtube Music had a fullscreen visualizer for your party or event?*
 
