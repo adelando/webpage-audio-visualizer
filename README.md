@@ -11,6 +11,9 @@ Features a <ins>**Preset Manager**</ins> and a dynamic **Shortcut System** for l
 
 ---
 
+
+![Example](https://i.ibb.co/RpqsyHsd/VISUALIZERV18-0-MULTI-LAYER-Google-Chrome2026-02-1023-08-43-ezgif-com-optimize.gif)  
+
 ### 🪧 DEMO
 * [Latest Version](https://adelando.net/projects/visualizer.html) *Stable-Latest version on Github*
 
